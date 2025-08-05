@@ -4,6 +4,7 @@ DATA VISUALIZATION AND STORY TELLING:
 DATA INSIGHTS:
 
 DASHBOARD 1: SALES DATA
+
 1.Line Chart – Sum of Sales by Year
 
 What it shows: Total annual sales from 2015 to 2018.
@@ -29,7 +30,9 @@ Actionable Note:
 Focus on high performers for promotions and analyze low performers for product revamp or removal.
 
 DASHBOARD 2: SALES DISTRIBUTION
+
 3. Column Chart – Sum of Sales by Country and State
+   
 What it shows: Total sales from each U.S. state.
 Top State: California has the highest sales by far (>400K).
 
