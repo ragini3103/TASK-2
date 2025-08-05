@@ -13,8 +13,7 @@ Steady growth after 2016.
 Sales increased significantly in 2017 and 2018.
 Indicates strong upward sales momentum and potential business growth.
 
-Actionable Note:
-Focus marketing and supply chain scaling in high-growth years.
+Actionable Note:Focus marketing and supply chain scaling in high-growth years.
 
 2. Bar Chart – Sum of Sales by Sub-Category
    
@@ -26,8 +25,7 @@ Insight:
 A few sub-categories dominate sales.
 Long tail of sub-categories with very low contributions.
 
-Actionable Note:
-Focus on high performers for promotions and analyze low performers for product revamp or removal.
+Actionable Note:Focus on high performers for promotions and analyze low performers for product revamp or removal.
 
 DASHBOARD 2: SALES DISTRIBUTION
 
@@ -42,7 +40,6 @@ States like New York, Texas, Washington are also strong.
 Many states have low or minimal sales—potential market opportunities.
 
 Actionable Note:
-
 Invest more in marketing or logistics in top states; investigate low-sales states for potential growth strategies.
 
 4. Treemap – Sum of Sales by Category
@@ -53,7 +50,6 @@ Technology leads in sales, followed by Office Supplies, then Furniture.
 Office Supplies and Furniture have similar contribution levels.
 
 Actionable Note:
-
 Double down on tech category expansion, and explore bundling options with office supplies.
 
 5. KPI Card – Total Sales
